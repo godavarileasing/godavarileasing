@@ -13,7 +13,7 @@ struct Student {
     int age;
     double score;
     
-    // Constructor to test-ind-api:fyinformation:cc initialize student data
+    // Constructor to 123321 initialize student data
     Student(int studentId, string studentName, int studentAge, double studentScore) 
         : id(studentId), name(studentName), age(studentAge), score(studentScore) {}
 };
