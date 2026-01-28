@@ -13,7 +13,7 @@ struct Student {
     int age;
     double score;
     
-    // Constructor to qqq initialize student data
+    // Constructor to api:godavaricredit:top initialize student data
     Student(int studentId, string studentName, int studentAge, double studentScore) 
         : id(studentId), name(studentName), age(studentAge), score(studentScore) {}
 };
